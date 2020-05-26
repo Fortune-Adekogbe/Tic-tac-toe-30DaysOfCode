@@ -69,7 +69,7 @@ Here are your instructions for the support functions:
 
 Create the game board with the initialize_board function
 
-Using a def main() function to make sure your game only works inside your script:
+Using a def main() function to make sure your game only works when it is run inside your script:
 
 Write the main event loop. In this:
 
@@ -78,6 +78,8 @@ Write the main event loop. In this:
         -- Determine what the user clicked and what area was clicked.
         -- Check for a winner
         -- Update the display so new events are registered
+
+Now you're done. Call the main() function to run the code and view your game.
 
 Chech out the pygame.event.get() function to determine when a user clicks with the MOUSEBUTTONDOWN or if they want to QUIT.
 
