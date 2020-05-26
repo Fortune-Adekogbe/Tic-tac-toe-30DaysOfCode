@@ -81,4 +81,4 @@ Write the main event loop. In this:
 
 Chech out the pygame.event.get() function to determine when a user clicks with the MOUSEBUTTONDOWN or if they want to QUIT.
 
-*Check out the pygame docs @ www.pygame.org/doc*
+*Check out the pygame docs @https://www.pygame.org/docs/*
