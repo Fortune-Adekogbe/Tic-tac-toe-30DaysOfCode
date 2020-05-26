@@ -69,8 +69,11 @@ Here are your instructions for the support functions:
 Create the game board with the initialize_board function
 
 Using a def main() function to make sure your game only works inside your script:
+
 Write the main event loop. In this:
+
     Call required functions to:
+
         -- Determine what the user clicked and what area was clicked.
         -- Check for a winner
         -- Update the display so new events are registered
