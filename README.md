@@ -15,14 +15,14 @@ Also set the caption for as "Tic-Tac-Toe" with pygame if you want to.
 
 Here are your instructions for the support functions:
 
--- Write a function named initialize_board
+# Write a function named initialize_board
 
     Aim: initialize the background and return it as a variable.
     This takes in a properly initialized pyGame display as its only parameter.
     With this and pygame's Surface method, set up the background of the board.(You can also set the color of the     background)
     Draw the vertical and horizontal grid lines on the background that partitions the section of the background that is your game board into the expected nine boxes. 
     
--- Write a function named draw_status
+# Write a function named draw_status
     
     Aim: This function draws the current status (like the players turn and winner) at the bottom of the game board.
     It takes in the already created background as its parameter.
